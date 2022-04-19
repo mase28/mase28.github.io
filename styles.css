@@ -9,3 +9,17 @@
 	padding: 0;
 	font-family: Garamond;
 }
+
+.navbar {
+	overflow: hidden;
+}
+
+.navbar_container {
+	height: 1px;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	align-items: center;
+	font-size: 16px;
+	padding: 14px 16px;
+}
