@@ -17,7 +17,7 @@
 .navbar_container {
 	height: 1px;
 	display: flex;
-	justify-content: center;
+	justify-content: space-between;
 	flex-direction: row;
 	align-items: center;
 	font-size: 16px;
