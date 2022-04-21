@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}"
 
+footer {
+	display: none !important;
+}
+
 * {
 	box-sizing: border-box;
 	margin: 0;
