@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Mason Olsen
 description: Recent Graduate in Computer Science and Mathematics looking to start my career in Software Engineering.
+github:
+  is_project_page: false
